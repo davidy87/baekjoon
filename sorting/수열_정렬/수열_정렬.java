@@ -1,4 +1,4 @@
-package sorting;
+package sorting.수열_정렬;
 
 import java.io.*;
 import java.util.ArrayList;

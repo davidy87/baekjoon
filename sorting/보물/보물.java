@@ -1,4 +1,4 @@
-package sorting;
+package sorting.보물;
 
 import java.io.*;
 import java.util.*;
